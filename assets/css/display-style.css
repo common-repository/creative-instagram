@@ -1,0 +1,40 @@
+.spf-header{
+	text-align: center;
+	padding: 20px;
+    margin-bottom: 20px;
+}
+
+.spf-insagram-wrapper .spf-single-img {
+	width: 250px;
+	height: auto;
+	display: inline-block;
+	padding: 5px;
+
+}
+.spf-header div{
+
+	display: inline-block;
+	line-height: all;
+}
+
+.spf-header .spf-header-title{
+	margin: 0;
+	padding: 0
+}
+
+.spf-header .spf-header-icon{
+	vertical-align: middle;
+}
+
+#spf-loadmore{
+	text-align: center;
+	margin: 20px 0;
+}
+#spf-loadmore a{
+	text-decoration: none;
+	text-align: center;	
+	padding: 10px 19px;
+    border: 1px solid;
+    margin-right: 10px;
+    text-transform: uppercase;
+}

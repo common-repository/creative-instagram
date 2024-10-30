@@ -1,0 +1,7 @@
+#toplevel_page_social-portfolio-feed li.wp-first-item {
+    display: none;
+}
+
+.spf-form input[type="text"]{
+	width: 100%;
+}
